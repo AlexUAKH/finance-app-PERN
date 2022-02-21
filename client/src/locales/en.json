@@ -1,0 +1,56 @@
+{
+  "app":{
+    "login": "Login",
+    "logout": "Logout",
+    "currency": {
+      "uah": "Grivna",
+      "usd": "Dollar",
+      "euro": "Euro"
+    },
+    "cur": {
+      "uah": "uah",
+      "usd": "usd",
+      "euro": "euro"
+    },
+    "months": {
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    },
+    "in-progress": "This page in progress.",
+    "back-home": "Back to home page."
+  },
+  "menu": {
+    "statistic": "Dashboard",
+    "table": "Table",
+    "offering": "Offering"
+  },
+  "dashboard": {
+    "last-month-tithe": "Last month tithe",
+    "last-month-spend": "Last month spend",
+    "total": "Total",
+    "chart-title": "Last year tithe",
+    "choose-currency": "Choose some currency to show"
+  },
+  "table": {
+    "add-record": "Add new record"
+  },
+  "login": {
+    "mail": "Email address",
+    "enter-mail": "Enter email",
+    "password": "Password",
+    "enter-password": "Enter password",
+    "submit": "Submit",
+    "registr": "Registration",
+    "error" : "Email or password incorrect"
+  }
+}

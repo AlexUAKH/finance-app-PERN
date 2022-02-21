@@ -1,0 +1,56 @@
+{
+  "app":{
+    "login": "Ввійти",
+    "logout": "Вийти",
+    "currency": {
+      "uah": "Гривна",
+      "usd": "Долар",
+      "euro": "Євро"
+    },
+    "cur": {
+      "uah": "грн",
+      "usd": "дол",
+      "euro": "євро"
+    },
+    "months": {
+      "january": "Січень",
+      "february": "Лютий",
+      "march": "Березень",
+      "april": "Квітень",
+      "may": "Травень",
+      "june": "Червень",
+      "july": "Липень",
+      "august": "Серпень",
+      "september": "Вересень",
+      "october": "Жовтень",
+      "november": "Листопад",
+      "december": "Грудень"
+    },
+    "in-progress": "Строрінка у розробці.",
+    "back-home": "Повернутися до головної сторінки."
+  },
+  "menu": {
+    "statistic": "Статистика",
+    "table": "Таблиця",
+    "offering": "Пожертвування"
+  },
+  "dashboard": {
+    "last-month-tithe": "Пожертвування за місяць",
+    "last-month-spend": "Витрати за місяць",
+    "total": "Загалом",
+    "chart-title": "За минулий рік",
+    "choose-currency": "Оберіть валюту"
+  },
+  "table": {
+    "add-record": "Додати запис"
+  },
+  "login": {
+    "mail": "Елетронна пошта",
+    "enter-mail": "Ведіть пошту",
+    "password": "Пароль",
+    "enter-password": "Введіть пароль",
+    "submit": "Увійти",
+    "registr": "Регістрация",
+    "error" : "Пошта або пароль невірні"
+  }
+}

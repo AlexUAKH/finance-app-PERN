@@ -1,0 +1,56 @@
+{
+  "app":{
+    "login": "Войти",
+    "logout": "Выйти",
+    "currency": {
+      "uah": "Гривна",
+      "usd": "Доллар",
+      "euro": "Евро"
+    },
+    "cur": {
+      "uah": "грн",
+      "usd": "дол",
+      "euro": "евро"
+    },
+    "months": {
+      "january": "Январь",
+      "february": "Февраль",
+      "march": "Март",
+      "april": "Апрель",
+      "may": "Май",
+      "june": "Июнь",
+      "july": "Июль",
+      "august": "Август",
+      "september": "Сентябрь",
+      "october": "Октябрь",
+      "november": "Ноябрь",
+      "december": "Декабрь"
+    },
+    "in-progress": "Страница в разработке.",
+    "back-home": "Вернуться на главную страницу."
+  },
+  "menu": {
+    "statistic": "Статистика",
+    "table": "Таблица",
+    "offering": "Пожертвования"
+  },
+  "dashboard": {
+    "last-month-tithe": "Пожертвования за месяц",
+    "last-month-spend": "Расходы за месяц",
+    "total": "Сумма",
+    "chart-title": "Прошлый год",
+    "choose-currency": "Выберите валюту"
+  },
+  "table": {
+    "add-record": "Добавить новую запись"
+  },
+  "login": {
+    "mail": "Электронная почта",
+    "enter-mail": "Введите электронный адресс",
+    "password": "Пароль",
+    "enter-password": "Введите пароль",
+    "submit": "Войти",
+    "registr": "Регистрация",
+    "error" : "Почта или пароль неверные"
+  }
+}
